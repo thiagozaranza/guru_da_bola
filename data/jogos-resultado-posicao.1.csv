@@ -1,4 +1,14 @@
 ,campeonato,ano,rodada,data,mandante,visitante,gols_mandante,gols_visitante,resultado,posicao_m,posicao_v,aproveitamento_5r_v,aproveitamento_5r_m,aproveitamento_10r_v,aproveitamento_10r_m
+0,brasileiro-a,2018,6,21-05,Internacional,Chapecoense,3,0,MANDANTE,10.0,16.0,0.5,0.17,0.5,0.17
+1,brasileiro-a,2018,6,20-05,Fluminense,Atlético-PR,2,0,MANDANTE,5.0,17.0,0.17,0.58,0.17,0.58
+2,brasileiro-a,2018,6,20-05,América-MG,Botafogo,1,0,MANDANTE,6.0,11.0,0.58,0.33,0.58,0.33
+3,brasileiro-a,2018,6,20-05,Paraná,Grêmio,0,0,EMPATE,20.0,8.0,0.42,0.08,0.42,0.08
+4,brasileiro-a,2018,6,20-05,São Paulo,Santos,1,0,MANDANTE,7.0,15.0,0.25,0.33,0.25,0.33
+5,brasileiro-a,2018,6,20-05,Sport Recife,Corinthians,1,1,EMPATE,12.0,3.0,0.58,0.58,0.58,0.58
+6,brasileiro-a,2018,6,20-05,Vitória,Ceará,2,1,MANDANTE,14.0,19.0,0.25,0.25,0.25,0.25
+7,brasileiro-a,2018,6,19-05,Palmeiras,Bahia,3,0,MANDANTE,4.0,18.0,0.42,0.58,0.42,0.58
+8,brasileiro-a,2018,6,19-05,Flamengo,Vasco,1,1,EMPATE,2.0,9.0,0.33,0.75,0.33,0.75
+9,brasileiro-a,2018,6,19-05,Atlético-MG,Cruzeiro,1,0,MANDANTE,1.0,13.0,0.58,0.83,0.58,0.83
 10,brasileiro-a,2018,5,14-05,Botafogo,Fluminense,2,1,MANDANTE,6.0,9.0,0.78,0.44,0.78,0.44
 11,brasileiro-a,2018,5,14-05,Ceará,América-MG,2,2,EMPATE,19.0,10.0,0.33,0.22,0.33,0.22
 12,brasileiro-a,2018,5,13-05,Santos,Paraná,3,1,MANDANTE,13.0,20.0,0.11,0.0,0.11,0.0
