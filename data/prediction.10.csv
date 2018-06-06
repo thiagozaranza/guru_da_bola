@@ -1,0 +1,11 @@
+;mandante;visitante;prediction_RFC;prediction_ABC
+0;São Paulo;Internacional;MANDANTE;MANDANTE
+1;Botafogo;Ceará;MANDANTE;MANDANTE
+2;Vitória;Chapecoense;VISITANTE;VISITANTE
+3;Corinthians;Santos;MANDANTE;MANDANTE
+4;Sport Recife;Atlético-PR;MANDANTE;MANDANTE
+5;Cruzeiro;Vasco;MANDANTE;MANDANTE
+6;Grêmio;Palmeiras;MANDANTE;MANDANTE
+7;Fluminense;Flamengo;VISITANTE;VISITANTE
+8;Paraná;Bahia;EMPATE;VISITANTE
+9;América-MG;Atlético-MG;VISITANTE;VISITANTE
